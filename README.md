@@ -1,2 +1,2 @@
-##E--com Website using React-Django 
+# Ecom Website Using React.js and the Django rest Framework 
 
